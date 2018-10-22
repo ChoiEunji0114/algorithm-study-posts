@@ -1,4 +1,3 @@
-package bojAlgorithm;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
