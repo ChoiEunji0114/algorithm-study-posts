@@ -37,7 +37,6 @@ public class Main {
 		
 		int ans = Math.min(dp[n-1][0], Math.min(dp[n-1][1], dp[n-1][2]));
 		System.out.println(ans);
-		
 
 	}
 
