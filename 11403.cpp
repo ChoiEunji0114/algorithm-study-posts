@@ -1,3 +1,9 @@
+/*
+백준 11403
+경로 찾기 
+*/
+
+
 #include <iostream>
 using namespace std;
 
@@ -17,7 +23,7 @@ void go(int top, int x, int y) {
 
 int main(void) {
 	cin >> n;
-	for (int i = 1; i <= n; i++) { // �Է¹���
+	for (int i = 1; i <= n; i++) { // ÀÔ·Â¹ÞÀ½
 		for (int j = 1; j <= n; j++) {
 			cin >> input[i][j];
 		}
