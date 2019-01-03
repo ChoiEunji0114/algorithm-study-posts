@@ -1,3 +1,7 @@
+/*
+백준 11409
+행렬 곱셈 순서
+*/
 package boj11049;
 
 import java.util.Scanner;
