@@ -1,3 +1,7 @@
+/*
+백준 1517
+버블 소트
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
